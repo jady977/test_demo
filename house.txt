@@ -1,0 +1,14 @@
+Majlis2,9,9
+Kitchen,6,8
+Bedroom1,5,6
+Bedroom2,7,7
+Bedroom2,5,5
+Majlis1,9,10
+Laundry room,3,4
+Storage Room,4,5
+Dining room,7,9
+Living room,6,9
+Backyard,8,10
+Guest Room,5,6
+Garage,5,9
+
